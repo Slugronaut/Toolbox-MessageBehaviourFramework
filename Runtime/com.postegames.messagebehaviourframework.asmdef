@@ -1,0 +1,21 @@
+{
+    "name": "com.postegames.messagebehaviourframework",
+    "rootNamespace": "",
+    "references": [
+        "GUID:31f90076cc672e349bb4520c417457cb",
+        "GUID:7c52243ddb997824ba4d736d17597c55",
+        "GUID:1d4c14c389e52fe449678815c0e575f8",
+        "GUID:320e6532ec885b142a3fb20a1602bf4f",
+        "GUID:777455037b3e6dd47a832372b9042dd6",
+        "GUID:5401faf51756ebf498204cac660bd9fe"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

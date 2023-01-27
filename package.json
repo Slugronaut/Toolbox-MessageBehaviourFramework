@@ -1,0 +1,27 @@
+{
+  "name": "com.postegames.messagebehaviourframework",
+  "version": "1.0.0",
+  "displayName": "PEGLIB - Message Behaviour Framework",
+  "description": "Abstract classes that can be used to build more complex behaviours that respond to dispatched messages.",
+  "unity": "2022.2",
+  "keywords": [
+    "toolbox",
+    "events",
+    "messages",
+    "behaviour",
+    "framework"
+  ],
+  "author": {
+    "name": "Sluggy",
+    "email": "jcsluggy@gmail.com",
+    "url": "http:/postegames.com"
+  },
+  "dependencies": {
+    "com.postegames.sharedenums": "",
+    "com.postegames.messagedispatcher": "",
+    "com.postegames.autonomousentities": "",
+    "com.postegames.unityextensions": "",
+    "com.postegames.typehelper": "",
+    "com.postegames.instantiabletype": ""
+  }
+}

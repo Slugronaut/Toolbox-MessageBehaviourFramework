@@ -8,7 +8,7 @@ namespace Toolbox.Messaging
     /// attached to their Autonomous Entity hierarchy.
     /// </summary>
     [Serializable]
-    public abstract partial class LocalListenerBehaviour : Sirenix.OdinInspector.SerializedMonoBehaviour, ILocalDispatchListener
+    public abstract partial class LocalListenerBehaviour : MonoBehaviour, ILocalDispatchListener
     {
         LocalMessageDispatch _DispatchRoot;
         public LocalMessageDispatch DispatchRoot

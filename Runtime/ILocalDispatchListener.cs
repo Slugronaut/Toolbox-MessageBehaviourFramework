@@ -1,5 +1,5 @@
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     /// <summary>
     /// Implemented by behaviours that provide access to their local AEH message dispatch.

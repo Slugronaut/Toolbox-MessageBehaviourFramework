@@ -2,7 +2,7 @@ using Sirenix.OdinInspector;
 using System;
 using UnityEngine;
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     /// <summary>
     /// Convienience base class that can be used to translate between two message types.

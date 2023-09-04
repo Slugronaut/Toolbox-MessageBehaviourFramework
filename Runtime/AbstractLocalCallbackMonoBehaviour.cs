@@ -1,6 +1,6 @@
 
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
 
     /// <summary>

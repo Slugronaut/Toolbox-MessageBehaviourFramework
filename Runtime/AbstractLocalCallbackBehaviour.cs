@@ -1,5 +1,5 @@
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     /// <summary>
     /// Handles a LocalCallbackMessage and invokes the supplied callback if it

@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     /// <summary>
     /// Base class for creating a message posting component that posts a buffered

@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     /// <summary>
     /// Base class for deriving component events that should

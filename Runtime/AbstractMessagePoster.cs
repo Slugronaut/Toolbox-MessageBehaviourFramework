@@ -1,8 +1,8 @@
 using UnityEngine;
 using System;
-using Toolbox.Attributes;
+using Peg.Attributes;
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     /// <summary>
     /// Base class for deriving components that should be able to post messages to the dispatcher.

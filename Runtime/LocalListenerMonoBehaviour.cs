@@ -1,7 +1,7 @@
 using UnityEngine;
 using System;
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     /// <summary>
     /// Derivable convenience base class for behaviours that need access to the LocalMessageDispatch

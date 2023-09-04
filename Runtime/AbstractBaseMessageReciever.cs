@@ -3,7 +3,7 @@ using System;
 using Sirenix.OdinInspector;
 using System.Collections;
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     /// <summary>
     /// Base class for creating Toolbox event handler components.

@@ -1,7 +1,7 @@
 using UnityEngine;
 using System;
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     /// <summary>
     /// Base class for creating Toolbox event handler components.

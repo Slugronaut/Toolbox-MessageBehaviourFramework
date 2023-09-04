@@ -2,7 +2,7 @@ using Sirenix.OdinInspector;
 using System;
 using System.Collections;
 
-namespace Toolbox.Messaging
+namespace Peg.Messaging
 {
     public class ClassDropDownList
     {

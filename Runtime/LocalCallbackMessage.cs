@@ -1,3 +1,4 @@
+using Peg.MessageDispatcher;
 using System;
 
 namespace Peg.Messaging

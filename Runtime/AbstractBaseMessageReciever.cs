@@ -2,6 +2,7 @@ using UnityEngine;
 using System;
 using Sirenix.OdinInspector;
 using System.Collections;
+using Peg.MessageDispatcher;
 
 namespace Peg.Messaging
 {

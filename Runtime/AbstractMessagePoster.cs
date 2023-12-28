@@ -1,6 +1,8 @@
 using UnityEngine;
 using System;
 using Peg.Attributes;
+using Peg.AutonomousEntities;
+using Peg.MessageDispatcher;
 
 namespace Peg.Messaging
 {

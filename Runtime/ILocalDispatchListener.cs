@@ -1,4 +1,6 @@
 
+using Peg.AutonomousEntities;
+
 namespace Peg.Messaging
 {
     /// <summary>
